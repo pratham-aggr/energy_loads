@@ -43,7 +43,9 @@ looking over the residuals:
 The residual plots for Y1 and Y2 suggest patterns rather than random scatter, indicating potential issues with model assumptions. The clustering of residuals hints at non-linearity or heteroscedasticity, where errors vary across different actual values. The red reference line at zero helps visualize systematic deviations, suggesting the model may not fully capture underlying trends. For now we have $R^2 = 0.9118$
 
 # More EDA
-![Alt text](assets/eda_y1_y2_cluster.png)
+<p align="center">
+  <img src="assets/eda_y1_y2_cluster.png" alt="Description of image">
+</p>
 Only lokking over our target variable we observe a strong linear relationship however when we dig deeper and apply clustering over Y1 and Y2 we observe that the data behaves differently for.....
 
 

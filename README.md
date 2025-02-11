@@ -25,11 +25,11 @@ $$
 Where:
 
 \begin{itemize}
-  \item \( y \) is the dependent variable (target),
-  \item \( \beta_0 \) is the intercept,
-  \item \( \beta_1, \beta_2, \dots, \beta_n \) are the regression coefficients (weights) for the independent variables,
-  \item \( x_1, x_2, \dots, x_n \) are the independent variables (features) such as Relative Compactness, Surface Area, Wall Area
-  \item \( \epsilon \) is the error term (residuals).
+  \item $\( y \)$ is the dependent variable (target),
+  \item $\( \beta_0 \)$ is the intercept,
+  \item $\( \beta_1, \beta_2, \dots, \beta_n \)$ are the regression coefficients (weights) for the independent variables,
+  \item $\( x_1, x_2, \dots, x_n \)$ are the independent variables (features) such as Relative Compactness, Surface Area, Wall Area
+  \item $\( \epsilon \)$ is the error term (residuals).
 \end{itemize}
 
 ## References and Data Sources 📖

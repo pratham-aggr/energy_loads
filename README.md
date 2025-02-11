@@ -1,4 +1,4 @@
-# Predictive Modeling of Heating and Cooling Loads (Coming Soon! 🚧)
+# Predictive Modeling of Heating and Cooling Loads (In Progress🏗️)
 
 This project will denote parameters such as glazing area, orientation, etc., as (Xi), and targets such as heating load and cooling load as (Yi). Below shows the notation we will be using:
 

@@ -30,6 +30,10 @@ Where:
 - $\( x_1, x_2, \dots, x_n \)$ are the independent variables (features) such as Relative Compactness, Surface Area, Wall Area
 - $\( \epsilon \)$ is the error term (residuals).
 
+After applying this model we get the below prediction plots: 
+![Alt text](Y1.png)
+![Alt text](Y2.png)
+
 ## References and Data Sources 📖
 
 Below are links to all the resources I used in developing this project.

@@ -34,8 +34,11 @@ After applying this model we get the below prediction plots:
 ![Alt text](assets/Y1.png)
 ![Alt text](assets/Y2.png)
 
-looking over the residuals;
-![Alt text](assets/residual.png)
+looking over the residuals: 
+
+<p align="center">
+  <img src="assets/residual.png" alt="Description of image">
+</p>
 
 The residual plots for Y1 and Y2 suggest patterns rather than random scatter, indicating potential issues with model assumptions. The clustering of residuals hints at non-linearity or heteroscedasticity, where errors vary across different actual values. The red reference line at zero helps visualize systematic deviations, suggesting the model may not fully capture underlying trends.
 

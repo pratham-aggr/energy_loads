@@ -31,8 +31,8 @@ Where:
 - $\( \epsilon \)$ is the error term (residuals).
 
 After applying this model we get the below prediction plots: 
-![Alt text](Y1.png)
-![Alt text](Y2.png)
+![Alt text](assets/Y1.png)
+![Alt text](assets/Y2.png)
 
 ## References and Data Sources 📖
 

@@ -1,5 +1,6 @@
 # Predictive Modeling of Heating and Cooling Loads (In Progress🧑‍💻)
 
+[![View Code](https://img.shields.io/badge/View%20Code-blue?style=for-the-badge)](https://github.com/your-repo/your-file.py)
 This project will denote parameters such as glazing area, orientation, etc., as (Xi), and targets such as heating load and cooling load as (Yi). Below shows the notation we will be using:
 
 | Name | Role   | Description               |
@@ -57,3 +58,4 @@ Below are links to all the resources I used in developing this project.
 - The data for this project is sourced from [UCI Machine Learning Repository](https://archive.ics.uci.edu/datasets), a platform offering publicly accessible datasets, including those related to building energy efficiency. The dataset includes details on heating and cooling loads, glazing area, and orientation, among other parameters.
 
 Dataset URL: [UCI Building Energy Dataset](https://archive.ics.uci.edu/dataset/242/energy+efficiency)
+

@@ -1,6 +1,6 @@
 # Predictive Modeling of Heating and Cooling Loads (In Progress🧑‍💻)
 
-[![View Code](https://img.shields.io/badge/View%20Code-blue?style=for-the-badge)](https://github.com/pratham-aggr/energy_loads.git)
+[![View Code](https://img.shields.io/badge/View%20Code-blue?style=for-the-badge)]([https://github.com/pratham-aggr/energy_loads.git](https://github.com/pratham-aggr/energy_loads/blob/main/energy.ipynb))
 
 This project will denote parameters such as glazing area, orientation, etc., as (Xi), and targets such as heating load and cooling load as (Yi). Below shows the notation we will be using:
 

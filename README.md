@@ -49,9 +49,7 @@ The residual plots for Y1 and Y2 suggest patterns rather than random scatter, in
   <img src="assets/eda_y1_y2_cluster.png" alt="Description of image">
 </p>
 By analyzing our target variables (heating and cooling loads) we observe a strong linear relationship, as evidenced by a high correlation coefficient of 0.98. This suggests that as one variable increases, the other tends to increase proportionally, indicating a close dependency between them.
-
 However, applying K-Means clustering to these target variables reveals two distinct clusters: one where Y1 (scaled) is below 0.4 and another where it is above. This suggests that while a linear trend exists, the variance in Y2 increases as Y1 increases. In other words, at lower values of Y1, the spread in Y2 is relatively small, whereas at higher values, the variance grows.
-
 Given this observation, it may be beneficial to develop separate models for light loads and heavy loads, allowing for more precise predictions and optimizations tailored to different operating conditions.
 
 

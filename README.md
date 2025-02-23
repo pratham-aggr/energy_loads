@@ -1,6 +1,6 @@
 # Predictive Modeling of Heating and Cooling Loads (In Progress🧑‍💻)
 
-[![View Code](https://img.shields.io/badge/View%20Code-blue?style=for-the-badge)](https://github.com/your-repo/your-file.py)
+[![View Code](https://img.shields.io/badge/View%20Code-blue?style=for-the-badge)]()
 
 This project will denote parameters such as glazing area, orientation, etc., as (Xi), and targets such as heating load and cooling load as (Yi). Below shows the notation we will be using:
 

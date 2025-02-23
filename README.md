@@ -39,7 +39,7 @@ After applying this model we get the below prediction plots:
 looking over the residuals: 
 
 <p align="center">
-  <img src="assets/residual.png" width="900">
+  <img src="assets/residual.png">
 </p>
 
 The residual plots for Y1 and Y2 suggest patterns rather than random scatter, indicating potential issues with model assumptions. The clustering of residuals hints at non-linearity or heteroscedasticity, where errors vary across different actual values. The red reference line at zero helps visualize systematic deviations, suggesting the model may not fully capture underlying trends. For now we have $R^2 = 0.9118$
@@ -51,7 +51,7 @@ The residual plots for Y1 and Y2 suggest patterns rather than random scatter, in
 By analyzing the relationship between heating and cooling loads, I identified a strong linear correlation of 0.98, indicating a clear dependency between these two target variables. However, when applying K-Means clustering, I observed two distinct clusters: one where Y1 (scaled) is below 0.4 and another where it is above. This suggests that while the overall trend is linear, the variance in Y2 increases as Y1 increases, which introduces potential complexity in modeling.
 
 <p align="center">
-  <img src="assets/y1_y2_eda.png" alt="">
+  <img src="assets/y1_y2_eda.png" width="900">
 </p>
 To investigate this further, I examined the distribution of Y1 and Y2, visualized in the histogram plots. The global median Y1 (solid black line) and local median Y1 (dotted black line) provide additional insights:
 

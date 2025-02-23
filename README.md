@@ -32,6 +32,9 @@ Where:
 - $\( x_1, x_2, \dots, x_n \)$ are the independent variables (features) such as Relative Compactness, Surface Area, Wall Area
 - $\( \epsilon \)$ is the error term (residuals).
 
+**The Cauchy-Schwarz Inequality**\
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+
 After applying this model we get the below prediction plots: 
 ![Alt text](assets/Y1.png)
 ![Alt text](assets/Y2.png)

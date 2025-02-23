@@ -51,7 +51,7 @@ The residual plots for Y1 and Y2 suggest patterns rather than random scatter, in
 By analyzing the relationship between heating and cooling loads, I identified a strong linear correlation of 0.98, indicating a clear dependency between these two target variables. However, when applying K-Means clustering, I observed two distinct clusters: one where Y1 (scaled) is below 0.4 and another where it is above. This suggests that while the overall trend is linear, the variance in Y2 increases as Y1 increases, which introduces potential complexity in modeling.
 
 <p align="center">
-  <img src="assets/eda_y1_y2_eda.png" alt="">
+  <img src="assets/y1_y2_eda.png" alt="">
 </p>
 To investigate this further, I examined the distribution of Y1 and Y2, visualized in the histogram plots. The global median Y1 (solid black line) and local median Y1 (dotted black line) provide additional insights:
 

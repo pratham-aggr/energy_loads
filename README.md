@@ -27,10 +27,10 @@ $$
 Where:
 
 - $\( y \)$ is the dependent variable (target),
-- \( \beta_0 \) is the intercept,
-- \( \beta_1, \beta_2, \dots, \beta_n \) are the regression coefficients (weights) for the independent variables,
-- \( x_1, x_2, \dots, x_n \) are the independent variables (features) such as Relative Compactness, Surface Area, Wall Area,
-- \( \epsilon \) is the error term (residuals).
+- $\( \beta_0 \)$ is the intercept,
+- $\( \beta_1, \beta_2, \dots, \beta_n \)$ are the regression coefficients (weights) for the independent variables,
+- $\( x_1, x_2, \dots, x_n \)$ are the independent variables (features) such as Relative Compactness, Surface Area, Wall Area,
+- $\( \epsilon \)$ is the error term (residuals).
 
 After applying this model we get the below prediction plots: 
 ![Alt text](assets/Y1.png)

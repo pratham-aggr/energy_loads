@@ -20,17 +20,20 @@ This project will denote parameters such as glazing area, orientation, etc., as 
 # Regression model 
 The equation for multi-dimensional (or multiple) linear regression can be written as:
 
-$$
+\begin{equation}
 y = \beta_0 + \beta_1 x_1 + \beta_2 x_2 + \dots + \beta_n x_n + \epsilon
-$$
+\end{equation}
 
+\noindent
 Where:
+\begin{itemize}
+    \item $y$ is the dependent variable (target),
+    \item $\beta_0$ is the intercept,
+    \item $\beta_1, \beta_2, \dots, \beta_n$ are the regression coefficients (weights) for the independent variables,
+    \item $x_1, x_2, \dots, x_n$ are the independent variables (features) such as Relative Compactness, Surface Area, Wall Area,
+    \item $\epsilon$ is the error term (residuals).
+\end{itemize}
 
-- $\( y \)$ is the dependent variable (target),
-- $\( \beta_0 \)$ is the intercept,
-- $\( \beta_1, \beta_2, \dots, \beta_n \)$ are the regression coefficients (weights) for the independent variables,
-- $\( x_1, x_2, \dots, x_n \)$ are the independent variables (features) such as Relative Compactness, Surface Area, Wall Area,
-- $\( \epsilon \)$ is the error term (residuals).
 
 After applying this model we get the below prediction plots: 
 ![Alt text](assets/Y1.png)

@@ -19,7 +19,7 @@ This project will denote parameters such as glazing area, orientation, etc., as 
 
 # Regression model 
 The equation for multi-dimensional (or multiple) linear regression can be written as:
-![<img src="assets/eq.png" alt="Alt text" width="300"/>
+![<img src="assets/eq.png" alt="Alt text" width="800"/>
 
 After applying this model we get the below prediction plots: 
 ![Alt text](assets/Y1.png)
